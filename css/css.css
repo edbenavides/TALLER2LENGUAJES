@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #d80202;
+    overflow: hidden;
+  }
+  
+  .titulo-centrado {
+    text-align: center;
+}
+
+  .blanco {
+    color: white;
+}
