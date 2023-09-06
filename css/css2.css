@@ -1,0 +1,23 @@
+
+    /* Estilos para la barra */
+    .barra {
+      background-color: red;
+      text-align: center;
+      padding: 10px; /* Espaciado interno para el contenido */
+      color: white; /* Color del texto */
+    }
+  
+    .cuadro {
+        width: 300px;
+        border: 1px solid #ccc;
+        padding: 20px;
+        margin: 0 auto;
+        background-color: #f9f9f9;
+    }
+    .cuadro {
+        width: 300px;
+        border: 1px solid #585757;
+        padding: 20px;
+        margin: 0 auto;
+        background-color: #130e0e;
+    }
