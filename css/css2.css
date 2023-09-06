@@ -1,23 +1,44 @@
 
     /* Estilos para la barra */
     .barra {
-      background-color: red;
+      background-color: rgb(255, 0, 21);
       text-align: center;
-      padding: 10px; /* Espaciado interno para el contenido */
+      padding: 1px; /* Espaciado interno para el contenido */
       color: white; /* Color del texto */
     }
   
-    .cuadro {
-        width: 300px;
-        border: 1px solid #ccc;
-        padding: 20px;
-        margin: 0 auto;
-        background-color: #f9f9f9;
+       
+    
+    .contenedor {
+        display: flex;
+        align-items: center;
     }
-    .cuadro {
-        width: 300px;
-        border: 1px solid #585757;
-        padding: 20px;
-        margin: 0 auto;
-        background-color: #130e0e;
+
+    .texto {
+        text-align: left;
+
     }
+
+    .imagen {
+        margin-left: 20px; /* Espacio entre el texto y la imagen */
+             width: 600px;
+    }
+    .formatoPagina{
+        
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            border: 1px solid #999;
+            padding: 10px;
+        
+    }
+
+    .recuadro {
+        width: 1000px; /* Ancho del recuadro */
+        padding: 20px; /* Espacio interno del recuadro */
+        border: 2px solid #f1ebeb; /* Borde del recuadro */
+        background-color: #faf8f8; /* Color de fondo del recuadro */
+        text-align: center; /* Alineación del contenido en el centro */
+        margin: 20px auto; /* Centrar el recuadro horizontalmente en la página */
+    }
+    
