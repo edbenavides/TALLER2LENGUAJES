@@ -10,3 +10,42 @@
   .blanco {
     color: white;
 }
+.recuadro {
+    width: 1300px; /* Ancho del recuadro */
+    height: 550px;
+    padding: 35px; /* Espacio interno del recuadro */
+    border: 5px solid #7d747458; /* Borde del recuadro */
+    background-color: #faf8f8; /* Color de fondo del recuadro */
+    text-align: center; /* Alineación del contenido en el centro */
+    margin: 20px auto; /* Centrar el recuadro horizontalmente en la página */
+}
+
+
+.imagen-con-borde {
+    border: 1px solid #000;
+}
+
+.contenedor-centrado {
+    text-align: center;
+}
+
+.imagen-centrada {
+    display: inline-block;
+    margin: 0 auto;
+}
+.centerBoton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px; /* Centrar verticalmente en la ventana del navegador */
+}
+.BOTON {
+    text-align: center;
+    background-color: red; /* Color de fondo */
+    color: white; /* Color del texto */
+    border: none; /* Eliminar el borde */
+    padding: 10px 20px; /* Espaciado interior */
+    font-size: 20px; /* Tamaño de fuente */
+    cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+    
+}
