@@ -49,3 +49,9 @@
     cursor: pointer; /* Cambiar el cursor al pasar el ratón */
     
 }
+.footer {
+    background-color: #d80202;
+    overflow: hidden;
+  }
+
+
