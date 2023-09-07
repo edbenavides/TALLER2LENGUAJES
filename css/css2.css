@@ -40,5 +40,35 @@
         background-color: #faf8f8; /* Color de fondo del recuadro */
         text-align: center; /* Alineación del contenido en el centro */
         margin: 20px auto; /* Centrar el recuadro horizontalmente en la página */
+       
     }
+    .FOOTER{
+        background-color: rgb(255, 0, 21);
+        text-align: center;
+        padding: 20px; /* Espaciado interno para el contenido */
+        color: white; /* Color del texto */
+        
+    }
+    
+    
+    .container{
+        display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 50px; /* Esto centra verticalmente en la página */
+            
+        } 
+       .btn{
+        text-align: center;
+    background-color: red; /* Color de fondo */
+    color: white; /* Color del texto */
+    border: none; /* Eliminar el borde */
+    padding: 5px 10px; /* Espaciado interior */
+    font-size: 20px; /* Tamaño de fuente */
+    cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+       } 
+           
+
+
+
     
